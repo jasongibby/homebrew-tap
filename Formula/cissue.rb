@@ -1,8 +1,8 @@
 class Cissue < Formula
   desc "Fast, fuzzy GitHub issue picker for the terminal"
   homepage "https://github.com/jasongibby/cissue"
-  url "https://github.com/jasongibby/cissue/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "40e3640b286e5492925e5ee9dbb7d1d1c760c74183a0daf115f88635bc694dec"
+  url "https://github.com/jasongibby/cissue/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "6c69b71ae0b6472448efeed73ecf4ec61e86e51002ff3fe45fdc69979d0cc31b"
   license "MIT"
 
   depends_on "gh"
